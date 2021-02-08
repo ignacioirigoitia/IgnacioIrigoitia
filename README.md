@@ -6,7 +6,7 @@ Me llamo Ignacio Irigoitia, tengo 23 años y soy (casi) desarrollador web. Desde
 
 ## Trabajos prácticos del curso
 
-- [Mercado Autos](https://github.com/ignacioirigoitia/mercadoAutosV4)<br>
+- [Mercado Autos](https://github.com/ignacioirigoitia/mercadoAutosV2) <br>
 
 Mercado Autos es un trabajo en el cual implementamos una base de datos con distintos autos, los cuales se pueden interactuar desde /autos, un sistema de registracion con validaciones para que un usuario administrador tenga la capacidad de agregar nuevos autos, editarlos y eliminarlos. No tiene mucho trabajo del lado del Front pero si del Back
 
