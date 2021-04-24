@@ -10,6 +10,12 @@ Me llamo Ignacio Irigoitia, tengo 23 años y soy desarrollador web. Desde septie
 
 IG-ARMADOS es el proyecto final con el cual tenemos que aprobar el curso, es un emprendimiento de venta de software de computadoras, realizamos toda la estructura con Express-Generator y construimos la base HTML y CSS. La pagina esta totalmente funcional, con la capacidad de explorar los distintos archivos, registrarse, loguearse como usuario y la opción de editar la información del perfil. Para el usuario administrador hay un CRUD completo en el cual puede agregar, editar y borrar productos, con la posibilidad de tambien asignarle rol de usuario al que el decida. Para cargar la base de datos es necesario descargar la [API PRODUCTOS](https://github.com/lautarovaldez12/igArmados-API) y ejecutar el servidor . Asi como tambien ejecutar el archivo SQL dentro de la carpeta data.
 
+## Mi Portfolio
+
+- [Portfolio](https://github.com/ignacioirigoitia/portfolioIgnacioIrigoitia)<br>
+
+Mi portfolio esta hecho en HTML, CSS y Javascript. En el tengo una breve descripción sobre mí, las tecnologías que aprendí, un apartado de "Experiencia" donde voy a ir vinculando los proyectos realizados y una sección de contacto para que puedan enviarme un mensaje.
+
 ## Trabajos prácticos del curso
 
 - [Mercado Autos](https://github.com/ignacioirigoitia/mercadoAutosV2) <br>
